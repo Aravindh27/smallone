@@ -1,1 +1,2 @@
-# smallone
+this is study purpose
+     
