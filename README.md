@@ -1,2 +1,2 @@
-this is study purpose
+This setup is only for study purpose.........
      
